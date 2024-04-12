@@ -1,7 +1,11 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("hello word");
-        System.out.println("this is my first program");
+        System.out.println("this is my first program \n an model ST4003CEM");
+
+        System.out.println(
+                "A \"quoted\" String is 'much' better if you learn the rules of \"escape sequences.\" Also, \"\" represents an empty String. Don't forget: use \\\" instead of \" ! '' is not the same as \"");
+
         /*
          * 1. Write a program that prints Hello World! to the console. Save the program
          * as Hello.java.
