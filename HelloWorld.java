@@ -35,5 +35,23 @@ public class HelloWorld {
          * '' is not the same as "
          * 
          */
+
+        /*
+         * 4. WAP that prints the following pattern:
+         *
+         **
+         ***
+         ****
+         * 
+         * 
+         * 
+         * 
+         */
+        System.out.println("**");
+        System.out.println("***");
+        System.out.println("***");
+        System.out.println("*****");
+
     }
+
 }
